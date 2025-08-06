@@ -1,10 +1,22 @@
 # TradeSphere: Cryptocurrency Trading Platform
 
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/imvaibhav100/TradeSphere.svg)](https://github.com/imvaibhav100/TradeSphere/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/imvaibhav100/TradeSphere.svg)](https://github.com/imvaibhav100/TradeSphere/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/imvaibhav100/TradeSphere.svg)](https://github.com/imvaibhav100/TradeSphere/issues)
+
 ![TradeSphere Logo](Frontend/public/zosh-logo.png)
 
 ## 📖 About
 
 TradeSphere is a comprehensive cryptocurrency trading platform that allows users to simulate trading in a real-world-like environment. It provides features for managing portfolios, tracking cryptocurrencies, and executing trades. This platform is built with a modern tech stack, featuring a React-based frontend and a robust Java Spring Boot backend.
+
+## 📸 Screenshots
+*Please replace these placeholder images with actual screenshots of your application.*
+
+| Login Page | Dashboard |
+| :---: | :---: |
+| ![Login Page](Frontend/public/loginBanner.jpg) | ![Dashboard](Frontend/public/crypto-7678815_1920.jpg) |
 
 ## ✨ Features
 
