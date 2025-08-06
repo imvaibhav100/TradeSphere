@@ -1,0 +1,11 @@
+package com.vaibh.model;
+
+import com.vaibh.domain.VerificationType;
+import lombok.Data;
+
+@Data
+public class TwoFactorAuth {
+
+    private boolean isEnabled = false;
+    private VerificationType sendTo;
+}
